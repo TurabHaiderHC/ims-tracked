@@ -54,3 +54,7 @@
  * @see http://drupal.org/documentation/install/multi-site
  */
 $sites['openatrium.hres.ca'] = 'ims.hres.ca';
+$sites['openatrium.hres.ca.psia-pro'] = 'ims.hres.ca.psia-pro';
+$sites['openatrium.hres.ca.gmp'] = 'ims.hres.ca.gmp';
+$sites['openatrium.hres.ca.ct-adr'] = 'ims.hres.ca.ct-adr';
+
