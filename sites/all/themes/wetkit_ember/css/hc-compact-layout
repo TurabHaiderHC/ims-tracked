@@ -1,0 +1,57 @@
+fieldset.hc-compact-layout {
+	border: 1px solid #cccccc;
+	padding: 0 1em 1em;
+}
+
+fieldset.hc-compact-layout legend {
+	border: none;
+	margin: 0;
+	padding: 0 5px;
+	white-space: nowrap;
+	width: auto;
+}
+
+fieldset.hc-compact-layout legend .fieldset-legend {
+	position: relative;
+}
+
+.hc-compact-layout .form-wrapper {
+	float: left;
+	margin-right: 1em;
+	width: 30%;
+}
+
+.hc-compact-layout label {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0;
+}
+
+.hc-compact-layout input, 
+.hc-compact-layout select {
+	border-radius: 0;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	width: 206px;
+} 
+
+.hc-compact-layout input[type=radio] {
+	width: auto;
+}
+
+.hc-compact-layout .container-inline-date input {
+	width: 206px;
+}
+
+.hc-compact-layout .form-item {
+	margin: 0 0 6px 0;
+}
+
+.hc-compact-layout .form-item .form-item {
+	margin: 0;
+}
+
+.hc-compact-layout fieldset {
+	min-height: 0;
+}
